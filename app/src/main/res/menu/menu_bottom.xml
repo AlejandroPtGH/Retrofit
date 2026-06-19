@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navLibros"
+        android:title="Libros"
+        android:icon="@android:drawable/ic_menu_agenda" />
+
+    <item
+        android:id="@+id/navAutores"
+        android:title="Autores"
+        android:icon="@android:drawable/ic_menu_myplaces" />
+
+    <item
+        android:id="@+id/navGeneros"
+        android:title="Géneros"
+        android:icon="@android:drawable/ic_menu_sort_by_size" />
+
+</menu>
