@@ -6,6 +6,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.example.retrofit.ui.AutoresFragment
 import com.example.retrofit.ui.GenerosFragment
 import com.example.retrofit.ui.LibrosFragment
+//Cambio de prueba GitHub
 
 /**
  * Actividad principal de la app. Es la única pantalla que existe —
