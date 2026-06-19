@@ -4,7 +4,7 @@ import kotlinx.serialization.Serializable
 @Serializable
 data class Autor(
     //cambios de una rama
-    //segundo cambio
+    //segundo cambio2
     val id: Int = 0,
     val nombre: String
 )
